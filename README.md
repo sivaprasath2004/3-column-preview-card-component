@@ -11,8 +11,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-- [Author](#author)
-
 ## Overview
 
 ### The challenge
@@ -34,8 +32,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/santu369/frontendmentor-3-column-preview-card-component)
-- Live Site URL: [GitHub Pages Live URL](https://santu369.github.io/frontendmentor-3-column-preview-card-component)
+- Solution URL: [Repository](https://github.com/sivaprasath2004/3-column-preview-card-component)
+- Live Site URL: [Live site Url](https://sivaprasath2004.github.io/3-column-preview-card-component/)
 
 ## My process
 
@@ -51,9 +49,3 @@ Added media queries for smaller devices to show optimal layout to the user.
 ### Continued development
 
 Will do more of these challenges to improve my skills.
-
-## Author
-
-- Website - [Shiva Santosh Jana](https://santu369.github.io/FreeCodeCamp-PersonalPortfolioWebpage)
-- Frontend Mentor - [@santu369](https://www.frontendmentor.io/profile/santu369)
-- Twitter - [@santu69](https://www.twitter.com/santu69)
